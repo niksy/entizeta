@@ -18,7 +18,7 @@ Also, I wanted to do another implementation in JS using Node.js to see what kind
 
 ## Usage
 
-```bash
+```
 entizeta [option] [value]
 
 Options:
