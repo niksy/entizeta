@@ -2,8 +2,8 @@ require 'formula'
 
 class Entizeta < Formula
   homepage 'https://github.com/niksy/entizeta'
-  url 'https://github.com/niksy/entizeta/archive/master.tar.gz'
-  sha1 '53bed08f1a79a9bc0251a09bf304640e4eab1e29'
+  url 'https://github.com/niksy/entizeta/archive/f324303287478bdd847f0d6cd1392b2e7ecfe424.tar.gz'
+  sha1 '595b13fd1fa4a9538b698a0546863151aca8433f'
   version '0.1'
 
   def install
