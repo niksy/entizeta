@@ -5,7 +5,8 @@ Simple entity converter, used in command line interface.
 ## Installation
 
 1. Download binary and place it in the folder in your `$PATH`
-2. That’s it :)
+  * If you have Homebrew, you can install it with `$ brew install https://raw.github.com/niksy/entizeta/master/entizeta.rb`
+3. That’s it :)
 
 ## Usage
 
