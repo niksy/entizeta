@@ -15,7 +15,7 @@ brew install entizeta
 
 ## Usage
 
-```
+```bash
 entizeta [option] [value]
 
 Options:
